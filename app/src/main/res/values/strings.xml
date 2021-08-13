@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sheetInsert</string>
+    <string name="학번">학번</string>
+    <string name="답안">답안</string>
+    <string name="제출">제출</string>
+    <string name="퀴즈">퀴즈</string>
+</resources>
